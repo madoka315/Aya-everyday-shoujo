@@ -1,0 +1,14 @@
+# Aya-everyday-shoujo
+
+HoshinoBot 插件：今天我是什么少女。
+
+每人每天固定一个随机二次元少女人设（北京时间零点换日），支持查别人，稀有词条句尾带 ✨，节日（万圣节/圣诞/新年/情人节）期间出限定穿搭，词条可在 `config.json` 自行增删。
+
+## 指令
+
+- `今天我是什么少女` —— 看自己
+- `@xxx今天是什么少女` / `今天是什么少女@xxx` —— 看别人
+
+## 安装
+
+克隆到 `hoshino/modules/` 下并保持目录名为 `syoujou`，在 `hoshino/config/__bot__.py` 的 `MODULES_ON` 加一行 `'syoujou'`，重启。
