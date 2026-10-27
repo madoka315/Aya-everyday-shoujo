@@ -8,7 +8,3 @@ HoshinoBot 插件：今天我是什么少女。
 
 - `今天我是什么少女` —— 看自己
 - `@xxx今天是什么少女` / `今天是什么少女@xxx` —— 看别人
-
-## 安装
-
-克隆到 `hoshino/modules/` 下并保持目录名为 `syoujou`，在 `hoshino/config/__bot__.py` 的 `MODULES_ON` 加一行 `'syoujou'`，重启。
